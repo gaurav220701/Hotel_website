@@ -1,0 +1,154 @@
+.btn-1{
+	margin: 4rem 2rem;
+	padding: 1.1rem 1.2rem;
+
+}
+
+
+
+
+h1{
+	line-height: 5.5rem;
+	font-weight: bold;
+}
+
+.intro{
+	
+	padding: 4rem 2rem;
+}
+
+#title{
+  font-family: 'Montserrat', sans-serif;
+    
+    background-color: #d9dab0;
+
+}
+
+.nav-link{
+	padding:1rem;
+	margin: 0 2rem;
+}	 
+
+/*title heading */
+.title-heading{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+
+  	
+  
+  	
+ /*personal */ 	
+}
+
+.personal-taste{
+	padding: 40px;
+	
+}
+
+.personal{
+	padding: 2rem 5rem;
+}
+
+
+/*icons */
+.spots{
+	font-family: 'Montserrat', sans-serif;
+	text-align:center;
+	padding: 3.5rem;
+	
+}
+
+.restaurent{
+	width: 23rem;
+	height:15rem;
+	padding: 1.2rem 1.2rem;
+	margin: 1.5rem 2rem;
+	border: 3px solid;
+	border-color: white;
+
+ }
+
+.icon{
+	color: orange;
+}
+
+/*hotel-section */
+#hotels{
+	background-color: black;
+}
+
+.restaurent-image{
+	text-align: center;
+	color: white;
+	
+}
+
+/*opinion-section */
+#opinion{
+	text-align: center;
+	background-color: #ffe227;
+	padding: 3rem 4rem;
+	
+}
+
+.non-veg{
+	padding: 2rem 2rem;
+	height: 10rem;
+	width: 12rem;
+	margin: 2rem 2rem;
+	border-radius: 100%;
+	border: 1px solid;
+	border-color: white solid;
+}
+
+
+.veg{
+	padding: 2rem 2rem;
+	height: 10rem;
+	width: 12rem;
+	margin: 2rem 2rem;
+
+	border-radius: 100%;
+	border: 1px solid;
+	border-color: white solid;
+}
+
+.opinion-anker{
+	color: black
+}
+
+/*card-section */
+
+#card{
+	padding: 40px;
+	text-align: center;
+	background-color:#6a492b;
+	
+}
+
+.card-image{
+	width: 20rem;
+	height: 20rem;
+	margin: 10px 80px;
+}
+
+.card-body{
+	text-align: center;
+	background-color: #f8dc81;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
